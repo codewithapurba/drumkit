@@ -1,6 +1,5 @@
 body {
   text-align: center;
-<<<<<<< HEAD
   background-color: #011F3F;
 }
 
@@ -25,7 +24,7 @@ body {
   width: 200px;
   border: 10px solid black;
   border-radius: 20%;
-=======
+
   background-color: #283149;
 }
 
@@ -72,7 +71,6 @@ footer {
 
 .set {
   margin: 10% auto;
->>>>>>> fa9189968f95528e117fbdc2b7b0bb98e8e0123f
 }
 
 .game-over {
@@ -80,7 +78,6 @@ footer {
   opacity: 0.8;
 }
 
-<<<<<<< HEAD
 .red {
   background-color: red;
 }
@@ -100,7 +97,7 @@ footer {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
-=======
+}
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
@@ -126,5 +123,5 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
->>>>>>> fa9189968f95528e117fbdc2b7b0bb98e8e0123f
+
 }
